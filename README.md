@@ -69,16 +69,21 @@ cp SKILL.md .agents/skills/multimodal-osint-risk-analyst.md
 Example Prompt:
 "Assess supply chain and geopolitical risks for TSMC's Arizona facility. Focus on semiconductor raw material dependencies and regional water scarcity."
 
-Project Structure:
+---
 
-├── SKILL.md              # Core agent system prompt & workflow spec
-├── README.md             # Repository documentation
-└── examples/             # Sample generated risk briefs
+## Project Structure
+
+```text
+.
+├── SKILL.md
+├── README.md
+└── examples/
     └── tsmc-arizona.md
+```
 
 
 License: MIT
 
-`
+
 mkdir -p .agents/skills/
 cp SKILL.md .agents/skills/multimodal-osint-risk-analyst.md
