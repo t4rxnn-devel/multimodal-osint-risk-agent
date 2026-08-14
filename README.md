@@ -64,6 +64,7 @@ Drop the skill file into your agent environment directory:
 ```bash
 mkdir -p .agents/skills/
 cp SKILL.md .agents/skills/multimodal-osint-risk-analyst.md
+```
 
 Example Prompt:
 "Assess supply chain and geopolitical risks for TSMC's Arizona facility. Focus on semiconductor raw material dependencies and regional water scarcity."
@@ -78,6 +79,6 @@ Project Structure:
 
 License: MIT
 
-```bash
+`
 mkdir -p .agents/skills/
 cp SKILL.md .agents/skills/multimodal-osint-risk-analyst.md
