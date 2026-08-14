@@ -70,7 +70,7 @@ Example Prompt:
 "Assess supply chain and geopolitical risks for TSMC's Arizona facility. Focus on semiconductor raw material dependencies and regional water scarcity."
 
 Project Structure:
-.
+
 ├── SKILL.md              # Core agent system prompt & workflow spec
 ├── README.md             # Repository documentation
 └── examples/             # Sample generated risk briefs
