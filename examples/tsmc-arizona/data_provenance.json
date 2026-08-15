@@ -1,0 +1,53 @@
+{
+  "ingestion_timestamp": "2026-08-14T22:06:00Z",
+  "sources": [
+    {
+      "source_type": "SEC_EDGAR",
+      "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=TSMC",
+      "retrieval_timestamp": "2026-08-14T22:06:00Z",
+      "confidence_score": 95.0,
+      "is_inferred": false,
+      "vectors_used": ["SPOF-001", "FIN-001"]
+    },
+    {
+      "source_type": "OFAC_SDN",
+      "source_url": "https://sanctionssearch.ofac.treas.gov/",
+      "retrieval_timestamp": "2026-08-14T22:06:00Z",
+      "confidence_score": 95.0,
+      "is_inferred": false,
+      "vectors_used": ["SNC-001"]
+    },
+    {
+      "source_type": "NOAA_CPC",
+      "source_url": "https://www.drought.gov/",
+      "retrieval_timestamp": "2026-08-14T22:06:00Z",
+      "confidence_score": 85.0,
+      "is_inferred": false,
+      "vectors_used": ["CLI-001"]
+    },
+    {
+      "source_type": "ACLED",
+      "source_url": "https://acleddata.com/",
+      "retrieval_timestamp": "2026-08-14T22:06:00Z",
+      "confidence_score": 80.0,
+      "is_inferred": false,
+      "vectors_used": ["CNF-001"]
+    },
+    {
+      "source_type": "BIS_EAR",
+      "source_url": "https://www.bis.doc.gov/",
+      "retrieval_timestamp": "2026-08-14T22:06:00Z",
+      "confidence_score": 85.0,
+      "is_inferred": false,
+      "vectors_used": ["REG-001"]
+    },
+    {
+      "source_type": "Lloyds_List",
+      "source_url": "https://www.lloydslist.com/",
+      "retrieval_timestamp": "2026-08-14T22:06:00Z",
+      "confidence_score": 70.0,
+      "is_inferred": false,
+      "vectors_used": ["TRN-001"]
+    }
+  ]
+}
