@@ -1,0 +1,275 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="markmap mm-tqtla6-4" style="width: 100%; height: 100%;"><style>.markmap{--markmap-max-width: 9999px;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;--markmap-highlight-node-bg: #ff02;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign&gt;div{width:var(--markmap-max-width);text-align:left}.markmap-foreign&gt;div&gt;div{display:inline-block}.markmap-highlight rect{fill:var(--markmap-highlight-node-bg)}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style><g transform="translate(29.261768587769495,286.2076550813902) scale(0.40123185217773866)"><path class="markmap-link" data-depth="3" data-path="1.3.4" d="M429,-612.062C469,-612.062,469,-569.25,509,-569.25" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.5.6" d="M416,-431.687C456,-431.687,456,-325.875,496,-325.875" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.7.8" d="M413,-209.312C453,-209.312,453,-124.5,493,-124.5" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.9.10.11" d="M615,-66.937C655,-66.937,655,-93.219,695,-93.219" stroke-width="1.1875" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="4" data-path="1.9.10.12" d="M615,-66.937C655,-66.937,655,-67.031,695,-67.031" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.9.10.13" d="M615,-66.937C655,-66.937,655,-40.844,695,-40.844" stroke-width="1.1875" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="4" data-path="1.9.14.15" d="M629,16.625C669,16.625,669,-9.656,709,-9.656" stroke-width="1.1875" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.9.14.16" d="M629,16.625C669,16.625,669,16.531,709,16.531" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="4" data-path="1.9.14.17" d="M629,16.625C669,16.625,669,42.719,709,42.719" stroke-width="1.1875" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="4" data-path="1.9.18.19" d="M649,100.188C689,100.188,689,73.906,729,73.906" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.9.18.20" d="M649,100.188C689,100.188,689,100.094,729,100.094" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.9.18.21" d="M649,100.188C689,100.188,689,126.281,729,126.281" stroke-width="1.1875" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.9.10" d="M374,16.813C414,16.813,414,-66.937,454,-66.937" stroke-width="1.375" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="3" data-path="1.9.14" d="M374,16.813C414,16.813,414,16.625,454,16.625" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.9.18" d="M374,16.813C414,16.813,414,100.188,454,100.188" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.22.23.24" d="M814,183.75C854,183.75,854,157.469,894,157.469" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.22.23.25" d="M814,183.75C854,183.75,854,183.656,894,183.656" stroke-width="1.1875" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.22.23.26" d="M814,183.75C854,183.75,854,209.844,894,209.844" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="4" data-path="1.22.27.28" d="M796,267.313C836,267.313,836,241.031,876,241.031" stroke-width="1.1875" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.22.27.29" d="M796,267.313C836,267.313,836,267.219,876,267.219" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.22.27.30" d="M796,267.313C836,267.313,836,293.406,876,293.406" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.22.31.32" d="M757,350.875C797,350.875,797,324.594,837,324.594" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.22.31.33" d="M757,350.875C797,350.875,797,350.781,837,350.781" stroke-width="1.1875" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="4" data-path="1.22.31.34" d="M757,350.875C797,350.875,797,376.969,837,376.969" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.22.35.36" d="M797,434.438C837,434.438,837,408.156,877,408.156" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="4" data-path="1.22.35.37" d="M797,434.438C837,434.438,837,434.344,877,434.344" stroke-width="1.1875" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="4" data-path="1.22.35.38" d="M797,434.438C837,434.438,837,460.531,877,460.531" stroke-width="1.1875" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.22.39.40" d="M740,518C780,518,780,491.719,820,491.719" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.22.39.41" d="M740,518C780,518,780,517.906,820,517.906" stroke-width="1.1875" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="4" data-path="1.22.39.42" d="M740,518C780,518,780,544.094,820,544.094" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="3" data-path="1.22.23" d="M464,351.063C504,351.063,504,183.75,544,183.75" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="3" data-path="1.22.27" d="M464,351.063C504,351.063,504,267.313,544,267.313" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.22.31" d="M464,351.063C504,351.063,504,350.875,544,350.875" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.22.35" d="M464,351.063C504,351.063,504,434.438,544,434.438" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.22.39" d="M464,351.063C504,351.063,504,518,544,518" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.43.44" d="M448,660.563C488,660.563,488,745.375,528,745.375" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="2" data-path="1.2" d="M134,11.25C174,11.25,174,-638.812,214,-638.812" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.3" d="M134,11.25C174,11.25,174,-612.062,214,-612.062" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.5" d="M134,11.25C174,11.25,174,-431.687,214,-431.687" stroke-width="1.75" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="2" data-path="1.7" d="M134,11.25C174,11.25,174,-209.312,214,-209.312" stroke-width="1.75" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="2" data-path="1.9" d="M134,11.25C174,11.25,174,16.813,214,16.813" stroke-width="1.75" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="2" data-path="1.22" d="M134,11.25C174,11.25,174,351.063,214,351.063" stroke-width="1.75" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="2" data-path="1.43" d="M134,11.25C174,11.25,174,660.563,214,660.563" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><g class="markmap-highlight"/><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(214, -659.6875)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="178" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="160" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1. Executive Summary</div></div></foreignObject></g><g data-depth="3" data-path="1.3.4" class="markmap-node" transform="translate(509, -675.9375)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="258" y1="106.6875" y2="106.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="240" height="106"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="17,23">
+<thead data-lines="17,18">
+<tr data-lines="17,18">
+<th>Metric</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody data-lines="19,23">
+<tr data-lines="19,20">
+<td><strong>GVI Score</strong></td>
+<td>🟠 <strong>58.3/100</strong></td>
+</tr>
+<tr data-lines="20,21">
+<td><strong>Risk Band</strong></td>
+<td>High</td>
+</tr>
+<tr data-lines="21,22">
+<td><strong>Trend</strong></td>
+<td>↘</td>
+</tr>
+<tr data-lines="22,23">
+<td><strong>Confidence Interval</strong></td>
+<td>±8.2</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.3" class="markmap-node" transform="translate(214, -632.9375)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="217" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="215" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="199" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2. Global Vulnerability Index</div></div></foreignObject></g><g data-depth="3" data-path="1.5.6" class="markmap-node" transform="translate(496, -558.5625)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="1354" y1="232.6875" y2="232.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1336" height="232"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="28,40">
+<thead data-lines="28,29">
+<tr data-lines="28,29">
+<th>Entity</th>
+<th>Tier</th>
+<th>Jurisdiction</th>
+<th>Sector</th>
+<th>Revenue Dep.</th>
+<th>Risk Level</th>
+<th>Key Exposure</th>
+</tr>
+</thead>
+<tbody data-lines="30,40">
+<tr data-lines="30,31">
+<td>TSMC Arizona Corporation</td>
+<td>1</td>
+<td>US</td>
+<td>Semiconductors</td>
+<td>100.0%</td>
+<td>🔴 Critical</td>
+<td>Primary fab facility; $40B investment; 4nm/3nm production</td>
+</tr>
+<tr data-lines="31,32">
+<td>Taiwan Semiconductor Manufacturing Company Ltd</td>
+<td>1</td>
+<td>TW</td>
+<td>Semiconductors</td>
+<td>100.0%</td>
+<td>🔴 Critical</td>
+<td>Parent company; IP licensing; process engineering; geopolitical flashpoint</td>
+</tr>
+<tr data-lines="32,33">
+<td>ASML Holding N.V.</td>
+<td>2</td>
+<td>NL</td>
+<td>Semiconductors</td>
+<td>85.0%</td>
+<td>🔴 Critical</td>
+<td>Sole EUV lithography supplier; export license dependency on Dutch gov</td>
+</tr>
+<tr data-lines="33,34">
+<td>Applied Materials, Inc.</td>
+<td>2</td>
+<td>US</td>
+<td>Semiconductors</td>
+<td>70.0%</td>
+<td>🔴 Critical</td>
+<td>Deposition/etch equipment; BIS export control classification EAR99/ECCN</td>
+</tr>
+<tr data-lines="34,35">
+<td>Lam Research Corporation</td>
+<td>2</td>
+<td>US</td>
+<td>Semiconductors</td>
+<td>65.0%</td>
+<td>🟠 High</td>
+<td>Etch/Clean equipment; concentrated R&amp;D in US/TW/KR</td>
+</tr>
+<tr data-lines="35,36">
+<td>Central Arizona Project</td>
+<td>2</td>
+<td>US</td>
+<td>Utilities</td>
+<td>90.0%</td>
+<td>🔴 Critical</td>
+<td>Primary water source for Phoenix metro fabs; Colorado River Tier 1 shortage</td>
+</tr>
+<tr data-lines="36,37">
+<td>Sumco Corporation</td>
+<td>2</td>
+<td>JP</td>
+<td>Semiconductors</td>
+<td>55.0%</td>
+<td>🟠 High</td>
+<td>Silicon wafer supply; oligopoly with Shin-Etsu; earthquake/tsunami exposure</td>
+</tr>
+<tr data-lines="37,38">
+<td>Zeon Corporation</td>
+<td>3</td>
+<td>JP</td>
+<td>Chemicals</td>
+<td>25.0%</td>
+<td>🟡 Moderate</td>
+<td>EUV photoresist monomers; single-source chemical precursors</td>
+</tr>
+<tr data-lines="38,39">
+<td>JSR Corporation</td>
+<td>3</td>
+<td>JP</td>
+<td>Chemicals</td>
+<td>20.0%</td>
+<td>🟡 Moderate</td>
+<td>EUV photoresist; JIC acquisition pending; supply chain consolidation risk</td>
+</tr>
+<tr data-lines="39,40">
+<td>Entegris, Inc.</td>
+<td>3</td>
+<td>US</td>
+<td>Chemicals</td>
+<td>18.0%</td>
+<td>🟡 Moderate</td>
+<td>Contamination control; liquid/gas delivery systems; fab consumables</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.5" class="markmap-node" transform="translate(214, -452.5625)"><line stroke="#d62728" stroke-width="1.75" x1="-1" x2="204" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="202" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="186" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">3. Node Dependency Map</div></div></foreignObject></g><g data-depth="3" data-path="1.7.8" class="markmap-node" transform="translate(493, -315.1875)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="746" y1="190.6875" y2="190.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="728" height="190"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="45,55">
+<thead data-lines="45,46">
+<tr data-lines="45,46">
+<th>Vector</th>
+<th>Score</th>
+<th>Confidence</th>
+<th>Trend</th>
+<th>Threshold</th>
+<th>Data Source</th>
+</tr>
+</thead>
+<tbody data-lines="47,55">
+<tr data-lines="47,48">
+<td>Single Point of Failure</td>
+<td>85.0</td>
+<td>90.0%</td>
+<td>↘</td>
+<td>✅ Triggered</td>
+<td>SEC 10-K Supplier Disclosures</td>
+</tr>
+<tr data-lines="48,49">
+<td>Climate Vulnerability</td>
+<td>72.0</td>
+<td>85.0%</td>
+<td>↘</td>
+<td>✅ Triggered</td>
+<td>NOAA CPC / USGS PSHA</td>
+</tr>
+<tr data-lines="49,50">
+<td>Sanctions Exposure</td>
+<td>65.0</td>
+<td>95.0%</td>
+<td>↘</td>
+<td>✅ Triggered</td>
+<td>OFAC SDN / EU Consolidated List</td>
+</tr>
+<tr data-lines="50,51">
+<td>Conflict Proximity</td>
+<td>75.0</td>
+<td>80.0%</td>
+<td>↘</td>
+<td>✅ Triggered</td>
+<td>ACLED Conflict Data</td>
+</tr>
+<tr data-lines="51,52">
+<td>Regulatory Shift Risk</td>
+<td>55.0</td>
+<td>85.0%</td>
+<td>↘</td>
+<td>✅ Triggered</td>
+<td>BIS EAR / Federal Register</td>
+</tr>
+<tr data-lines="52,53">
+<td>Transit Chokepoint</td>
+<td>60.0</td>
+<td>70.0%</td>
+<td>→</td>
+<td>✅ Triggered</td>
+<td>Lloyd's List / AIS Vessel Tracking</td>
+</tr>
+<tr data-lines="53,54">
+<td>Geographic Concentration</td>
+<td>45.0</td>
+<td>95.0%</td>
+<td>→</td>
+<td>✅ Triggered</td>
+<td>Node Dependency Map</td>
+</tr>
+<tr data-lines="54,55">
+<td>Financial Distress</td>
+<td>20.0</td>
+<td>75.0%</td>
+<td>→</td>
+<td>❌ Not Triggered</td>
+<td>SEC 10-K / Credit Rating Agencies</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.7" class="markmap-node" transform="translate(214, -230.1875)"><line stroke="#8c564b" stroke-width="1.75" x1="-1" x2="201" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="199" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="183" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">4. Risk Vector Breakdown</div></div></foreignObject></g><g data-depth="4" data-path="1.9.10.11" class="markmap-node" transform="translate(695, -113.8125)"><line stroke="#17becf" stroke-width="1.1875" x1="-1" x2="285" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="267" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">CHIPS Act disbursement on schedule</div></div></foreignObject></g><g data-depth="4" data-path="1.9.10.12" class="markmap-node" transform="translate(695, -87.625)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="341" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="323" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Arizona DWR maintains CAP Tier 1 allocation</div></div></foreignObject></g><g data-depth="4" data-path="1.9.10.13" class="markmap-node" transform="translate(695, -61.4375)"><line stroke="#ff7f0e" stroke-width="1.1875" x1="-1" x2="432" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="414" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">BIS maintains current EAR classification for fab equipment</div></div></foreignObject></g><g data-depth="3" data-path="1.9.10" class="markmap-node" transform="translate(454, -87.625)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="163" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="161" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="145" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Base Case (P=55%)</div></div></foreignObject></g><g data-depth="4" data-path="1.9.14.15" class="markmap-node" transform="translate(709, -30.25)"><line stroke="#d62728" stroke-width="1.1875" x1="-1" x2="492" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="474" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Domestic EUV source demonstrated (e.g., Cymer/Intel consortium)</div></div></foreignObject></g><g data-depth="4" data-path="1.9.14.16" class="markmap-node" transform="translate(709, -4.0625)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="439" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="421" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">CAP augmentation via desalination or groundwater banking</div></div></foreignObject></g><g data-depth="4" data-path="1.9.14.17" class="markmap-node" transform="translate(709, 22.125)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="399" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="381" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">US-TW trade agreement on semiconductor IP sharing</div></div></foreignObject></g><g data-depth="3" data-path="1.9.14" class="markmap-node" transform="translate(454, -4.0625)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="177" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="175" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="159" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Upside Case (P=20%)</div></div></foreignObject></g><g data-depth="4" data-path="1.9.18.19" class="markmap-node" transform="translate(729, 53.3125)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="383" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="365" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Kinetic event in Taiwan Strait (ACLED fatality spike)</div></div></foreignObject></g><g data-depth="4" data-path="1.9.18.20" class="markmap-node" transform="translate(729, 79.5)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="563" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="545" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Dutch government suspends ASML export licenses to US fabs serving TW IP</div></div></foreignObject></g><g data-depth="4" data-path="1.9.18.21" class="markmap-node" transform="translate(729, 105.6875)"><line stroke="#17becf" stroke-width="1.1875" x1="-1" x2="466" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="448" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Colorado River Compact renegotiation cuts AZ allocation &gt;30%</div></div></foreignObject></g><g data-depth="3" data-path="1.9.18" class="markmap-node" transform="translate(454, 79.5)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="197" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#e377c2" fill="var(--markmap-circle-open-bg)" cx="195" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="179" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Downside Case (P=25%)</div></div></foreignObject></g><g data-depth="2" data-path="1.9" class="markmap-node" transform="translate(214, -4.0625)"><line stroke="#7f7f7f" stroke-width="1.75" x1="-1" x2="162" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="160" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="144" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">5. Scenario Analysis</div></div></foreignObject></g><g data-depth="4" data-path="1.22.23.24" class="markmap-node" transform="translate(894, 136.875)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="255" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="237" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Estimated Cost Impact:</strong> +12.0%</div></div></foreignObject></g><g data-depth="4" data-path="1.22.23.25" class="markmap-node" transform="translate(894, 163.0625)"><line stroke="#d62728" stroke-width="1.1875" x1="-1" x2="289" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="271" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Implementation Timeline:</strong> 1825 days</div></div></foreignObject></g><g data-depth="4" data-path="1.22.23.26" class="markmap-node" transform="translate(894, 189.25)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="247" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="229" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Addresses Vectors:</strong> SPOF-001</div></div></foreignObject></g><g data-depth="3" data-path="1.22.23" class="markmap-node" transform="translate(544, 163.0625)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="272" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="270" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="254" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">[MIT-SPOF-01] Alternative Sourcing</div></div></foreignObject></g><g data-depth="4" data-path="1.22.27.28" class="markmap-node" transform="translate(876, 220.4375)"><line stroke="#e377c2" stroke-width="1.1875" x1="-1" x2="246" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="228" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Estimated Cost Impact:</strong> +3.5%</div></div></foreignObject></g><g data-depth="4" data-path="1.22.27.29" class="markmap-node" transform="translate(876, 246.625)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="280" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="262" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Implementation Timeline:</strong> 730 days</div></div></foreignObject></g><g data-depth="4" data-path="1.22.27.30" class="markmap-node" transform="translate(876, 272.8125)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="229" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="211" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Addresses Vectors:</strong> CLI-001</div></div></foreignObject></g><g data-depth="3" data-path="1.22.27" class="markmap-node" transform="translate(544, 246.625)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="254" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="252" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="236" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">[MIT-CLI-01] Alternative Sourcing</div></div></foreignObject></g><g data-depth="4" data-path="1.22.31.32" class="markmap-node" transform="translate(837, 304)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="246" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="228" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Estimated Cost Impact:</strong> +2.0%</div></div></foreignObject></g><g data-depth="4" data-path="1.22.31.33" class="markmap-node" transform="translate(837, 330.1875)"><line stroke="#ff7f0e" stroke-width="1.1875" x1="-1" x2="280" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="262" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Implementation Timeline:</strong> 365 days</div></div></foreignObject></g><g data-depth="4" data-path="1.22.31.34" class="markmap-node" transform="translate(837, 356.375)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="313" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="295" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Addresses Vectors:</strong> SNC-001, REG-001</div></div></foreignObject></g><g data-depth="3" data-path="1.22.31" class="markmap-node" transform="translate(544, 330.1875)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="215" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="213" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="197" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">[MIT-SNC-01] Risk Hedging</div></div></foreignObject></g><g data-depth="4" data-path="1.22.35.36" class="markmap-node" transform="translate(877, 387.5625)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="246" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="228" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Estimated Cost Impact:</strong> +4.0%</div></div></foreignObject></g><g data-depth="4" data-path="1.22.35.37" class="markmap-node" transform="translate(877, 413.75)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="280" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="262" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Implementation Timeline:</strong> 180 days</div></div></foreignObject></g><g data-depth="4" data-path="1.22.35.38" class="markmap-node" transform="translate(877, 439.9375)"><line stroke="#e377c2" stroke-width="1.1875" x1="-1" x2="236" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="218" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Addresses Vectors:</strong> TRN-001</div></div></foreignObject></g><g data-depth="3" data-path="1.22.35" class="markmap-node" transform="translate(544, 413.75)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="255" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="253" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="237" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">[MIT-TRN-01] Logistics Rerouting</div></div></foreignObject></g><g data-depth="4" data-path="1.22.39.40" class="markmap-node" transform="translate(820, 471.125)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="246" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="228" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Estimated Cost Impact:</strong> +0.5%</div></div></foreignObject></g><g data-depth="4" data-path="1.22.39.41" class="markmap-node" transform="translate(820, 497.3125)"><line stroke="#17becf" stroke-width="1.1875" x1="-1" x2="271" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="253" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Implementation Timeline:</strong> 90 days</div></div></foreignObject></g><g data-depth="4" data-path="1.22.39.42" class="markmap-node" transform="translate(820, 523.5)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="453" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="435" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Addresses Vectors:</strong> SNC-001, CNF-001, CLI-001, REG-001</div></div></foreignObject></g><g data-depth="3" data-path="1.22.39" class="markmap-node" transform="translate(544, 497.3125)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="198" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="196" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="180" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">[MIT-MON-01] Monitoring</div></div></foreignObject></g><g data-depth="2" data-path="1.22" class="markmap-node" transform="translate(214, 330.1875)"><line stroke="#1f77b4" stroke-width="1.75" x1="-1" x2="252" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="250" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="234" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">6. Proactive Mitigation Strategies</div></div></foreignObject></g><g data-depth="3" data-path="1.43.44" class="markmap-node" transform="translate(528, 554.6875)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="813" y1="190.6875" y2="190.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="795" height="190"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="141,151">
+<thead data-lines="141,142">
+<tr data-lines="141,142">
+<th>Source Type</th>
+<th>URL</th>
+<th>Retrieved</th>
+<th>Confidence</th>
+<th>Inferred?</th>
+</tr>
+</thead>
+<tbody data-lines="143,151">
+<tr data-lines="143,144">
+<td>Corporate_Filings</td>
+<td>https://www.sec.gov/...</td>
+<td>2026-08-14 22:06 UTC</td>
+<td>90%</td>
+<td>No</td>
+</tr>
+<tr data-lines="144,145">
+<td>Node_Geospatial_Mapping</td>
+<td>internal...</td>
+<td>2026-08-14 22:06 UTC</td>
+<td>95%</td>
+<td>No</td>
+</tr>
+<tr data-lines="145,146">
+<td>OFAC_SDN</td>
+<td>https://sanctionssearch.ofac.treas.gov/...</td>
+<td>2026-08-14 22:06 UTC</td>
+<td>95%</td>
+<td>No</td>
+</tr>
+<tr data-lines="146,147">
+<td>Federal_Register_BIS</td>
+<td>https://www.bis.doc.gov/...</td>
+<td>2026-08-14 22:06 UTC</td>
+<td>85%</td>
+<td>No</td>
+</tr>
+<tr data-lines="147,148">
+<td>ACLED</td>
+<td>https://acleddata.com/...</td>
+<td>2026-08-14 22:06 UTC</td>
+<td>80%</td>
+<td>No</td>
+</tr>
+<tr data-lines="148,149">
+<td>NOAA_USGS</td>
+<td>https://www.drought.gov/...</td>
+<td>2026-08-14 22:06 UTC</td>
+<td>85%</td>
+<td>No</td>
+</tr>
+<tr data-lines="149,150">
+<td>SEC_EDGAR</td>
+<td>https://www.sec.gov/...</td>
+<td>2026-08-14 22:06 UTC</td>
+<td>75%</td>
+<td>No</td>
+</tr>
+<tr data-lines="150,151">
+<td>Lloyd's_List_AIS</td>
+<td>https://www.lloydslist.com/...</td>
+<td>2026-08-14 22:06 UTC</td>
+<td>70%</td>
+<td>No</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.43" class="markmap-node" transform="translate(214, 639.6875)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="236" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="234" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="218" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">7. Data Lineage &amp; Provenance</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0, -10)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="136" y1="21.25" y2="21.25"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="134" cy="21.25"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="118" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Intelligence Brief</div></div></foreignObject></g></g></svg>
